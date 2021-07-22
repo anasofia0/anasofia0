@@ -5,12 +5,16 @@ a:link {
   background-color: transparent;
   text-decoration: none;
 }
+</style>
+
+<style>
 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 </style>
+
 ### Olá 👋, meu nome é Ana Sofia
 
 <!--
@@ -20,12 +24,13 @@ img {
 -->
 <br />
 
-Olá, meu nome é **Ana Sofia**, sou **estudante de Ciência da Computação** e estou no meu terceiro semestre. Atualmente contribuo no desenvolvimento do jogo Mundo BitByte ([@mundo.bitbyte](https://www.instagram.com/mundo.bitbyte/)). Tenho interesse em desenvolvimento de jogos, programação competitiva e desenvolvimento back-end.
+Olá, meu nome é **Ana Sofia**, sou **estudante de Ciência da Computação** e estou no meu terceiro semestre. Atualmente contribuo no desenvolvimento do jogo Mundo BitByte ([@mundo.bitbyte](https://www.instagram.com/mundo.bitbyte/)). Tenho interesse em desenvolvimento de jogos e programação competitiva.
 
 **Para entrar em contanto:**
 
 - [Linkedin](https://www.linkedin.com/in/anasofiaschweizersilvestre/)
 - [E-mail](anasofia.s.silvestre@gmail.com)
+- [Lattes](http://lattes.cnpq.br/3673783541844654)
 
 <br />
 
