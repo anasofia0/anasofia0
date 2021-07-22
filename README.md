@@ -1,4 +1,4 @@
-
+<!--
 <style>
 a:link {
   color: #b647ff;
@@ -14,6 +14,7 @@ img {
     margin-right: auto;
 }
 </style>
+-->
 
 ### Olá 👋, meu nome é Ana Sofia
 
