@@ -32,9 +32,9 @@ Olá, meu nome é **Ana Sofia**, sou **estudante de Ciência da Computação** e
 - [Linkedin](https://www.linkedin.com/in/anasofiaschweizersilvestre/)
 - [E-mail](anasofia.s.silvestre@gmail.com)
 
-**Portifólio e Lattes**
+**Portfólio e Lattes**
 - [Lattes](http://lattes.cnpq.br/3673783541844654)
-- [Portifólio](https://www.notion.so/Ol-eu-sou-Ana-Sofia-5648389b18754f298a1f0a9a9af7ad20)
+- [Portfólio](https://www.notion.so/Ol-eu-sou-Ana-Sofia-5648389b18754f298a1f0a9a9af7ad20)
 
 <br />
 
