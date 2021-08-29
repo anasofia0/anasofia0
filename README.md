@@ -25,7 +25,10 @@ img {
 -->
 <br />
 
-Olá, meu nome é **Ana Sofia**, sou **estudante de Ciência da Computação** e estou no meu terceiro semestre. Atualmente contribuo no desenvolvimento do jogo Mundo BitByte ([@mundo.bitbyte](https://www.instagram.com/mundo.bitbyte/)). Tenho interesse em desenvolvimento de jogos e programação competitiva.
+Olá, meu nome é **Ana Sofia**, sou **estudante de Ciência da Computação** e estou no meu terceiro semestre. Atualmente contribuo no desenvolvimento do jogo Mundo BitByte ([@mundo.bitbyte](https://www.instagram.com/mundo.bitbyte/)). Tenho interesse em desenvolvimento de jogos, programação competitiva e desenvolvimento web.
+
+
+<p align= "center">Em tudo o que fazemos, aprendemos algo novo.</p>
 
 **Para entrar em contanto:**
 
