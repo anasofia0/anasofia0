@@ -25,7 +25,7 @@ img {
 -->
 <br />
 
-Olá, meu nome é **Ana Sofia**, sou **estudante de Ciência da Computação** e estou no meu quinto semestre. Atualmente sou bolsista no Laboratório de Inteligência Artificial da Universidade de Brasília. Tenho muito interesse em Machine Learning e Ciência de Dados e estou sempre buscando o meu aperfeiçoamento.
+Olá, meu nome é **Ana Sofia**, sou **estudante de Ciência da Computação** e estou no meu sexto semestre. Atualmente sou bolsista no Laboratório de Inteligência Artificial da Universidade de Brasília. Tenho muito interesse em Machine Learning e Ciência de Dados e estou sempre buscando o meu aperfeiçoamento.
 
 
 <p align= "center">Em tudo o que fazemos, aprendemos algo novo.</p>
